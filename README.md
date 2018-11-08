@@ -1,6 +1,6 @@
 
-[![Build status](https://travis-ci.org/peerquery/curator.svg?branch=master)](https://travis-ci.org/peerquery/curator)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/peerquery/curator/blob/master/LICENSE)
+[![Build status](https://travis-ci.org/curation-center/app.svg?branch=master)](https://travis-ci.org/curation-center/app)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/curation-center/app/blob/master/LICENSE)
 
 # Curator v4
 Advanced content curator interface and with a voting bot for Steem.
